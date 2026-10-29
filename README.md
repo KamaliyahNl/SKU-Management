@@ -18,6 +18,7 @@ The project utilises a relational data model built within an Excel workbook (SKU
 Ps: Due to image compression, some chart labels and figures in the preview image above may appear unclear. For the best viewing experience and full interactivity, please open the SKU MANAGEMENT.xlsx file directly in Microsoft Excel.
 
 
+
 An analytical overview of the 500 SKU portfolio reveals the following key performance indicators:
 1. Asset Scale & Valuation: Total inventory value stands at Rp28,425,028,000, distributed across various storage zones (Zones A to E).
 2. Stock Health Breakdown:
@@ -38,4 +39,3 @@ Based on the empirical findings from the dataset, the following operational impr
 3. Conduct targeted audits on the 158 Minus variance items and 141 Surplus variance items to reconcile discrepancies between system logs and physical warehouse stock.
 4. Calibrate lead times and safety stock calculations for items experiencing high inbound and outbound volatility to stabilise stock buffer levels.
 Surplus: 141 SKUs exhibit positive inventory discrepancies.
-# Recommendation
