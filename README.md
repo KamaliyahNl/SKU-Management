@@ -17,6 +17,7 @@ The project utilises a relational data model built within an Excel workbook (SKU
 <img width="1416" height="750" alt="SKU MANAGEMENT_DASHBOARD" src="https://github.com/user-attachments/assets/d7e89e39-a25e-4389-ae75-9a18457ee738" />
 Ps: Due to image compression, some chart labels and figures in the preview image above may appear unclear. For the best viewing experience and full interactivity, please open the SKU MANAGEMENT.xlsx file directly in Microsoft Excel.
 
+
 An analytical overview of the 500 SKU portfolio reveals the following key performance indicators:
 1. Asset Scale & Valuation: Total inventory value stands at Rp28,425,028,000, distributed across various storage zones (Zones A to E).
 2. Stock Health Breakdown:
